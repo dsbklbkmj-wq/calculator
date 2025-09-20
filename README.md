@@ -30,6 +30,6 @@
         </div>
     </div>
 
-    <script src="script.js"></script>
+    <script src="https://github.com/dsbklbkmj-wq/calculator/blob/main/script.js"></script>
 </body>
 </html>
